@@ -5,10 +5,7 @@ IMPORTANT: Please use the latest version of this code. The was an issue inserted
  Are You The One? Code
  
  NEW FEATURE: Blackout odds and Beam probabilities. Before the number of lights are revealed, put the current week's guesses into the currentWeek variable and run the code. It will print out the blackout odds and the liklihood of each beam count.
- 
- 
- After Week 7, this code was able to determine the winning matching for Season 3!
- 
+  
  Calculates the likelihoods of each couple being a perfect match (assuming all matches are equally likely).
  
  IMPORTANT:
@@ -19,3 +16,7 @@ IMPORTANT: Please use the latest version of this code. The was an issue inserted
  For the first time you run, make sure this is set to False (unless you have the allmatches.p file already!)
  Then you can change it to True in order to run faster.
  load_from_file = False
+
+
+Fork note:
+This has been used for the Latin America Version of are you the one
